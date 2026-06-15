@@ -32,11 +32,7 @@ Each café includes information about its atmosphere, location, and nearby trans
 
 ## 📸 Screenshot
 
-Add a screenshot of the homepage here:
-
-```md
 ![Homepage](media/homepage.png)
-```
 
 ---
 
