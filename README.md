@@ -35,7 +35,7 @@ Each café includes information about its atmosphere, location, and nearby trans
 Add a screenshot of the homepage here:
 
 ```md
-![Homepage](screenshots/homepage.png)
+![Homepage](media/homepage.png)
 ```
 
 ---
